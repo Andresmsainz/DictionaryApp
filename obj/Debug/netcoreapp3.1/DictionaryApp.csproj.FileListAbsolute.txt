@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DictionaryApp\bin\Debug\netcoreapp3.1\DictionaryApp.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DictionaryApp\bin\Debug\netcoreapp3.1\DictionaryApp.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DictionaryApp\bin\Debug\netcoreapp3.1\DictionaryApp.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DictionaryApp\bin\Debug\netcoreapp3.1\DictionaryApp.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DictionaryApp\bin\Debug\netcoreapp3.1\DictionaryApp.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DictionaryApp\bin\Debug\netcoreapp3.1\DictionaryApp.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DictionaryApp\obj\Debug\netcoreapp3.1\DictionaryApp.genruntimeconfig.cache
